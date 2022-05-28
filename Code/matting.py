@@ -8,6 +8,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from skimage.graph import MCP
 
+# TESTTTTT
+def test():
+    print('hi')
 # def likelihood_FG_BG(frame, binary, scribbles_number, **kwargs):
 #     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
 #
